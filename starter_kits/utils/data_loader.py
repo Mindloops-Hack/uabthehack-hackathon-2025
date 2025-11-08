@@ -130,7 +130,7 @@ def load_clients(
 
     # Convertir timestamp a datetime
     if 'last_connection_time' in df.columns:
-        df['timestamp'] = pd.to_datetime(df['last_connection_time'], unit='ms')
+        df['timestamp'] = pd.to_datetime(df['last_connection_time'])
         df['hour'] = df['timestamp'].dt.hour
         df['day_of_week'] = df['timestamp'].dt.day_name()
         df['date'] = df['timestamp'].dt.date
