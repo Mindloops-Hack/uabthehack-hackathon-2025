@@ -1,6 +1,6 @@
 # Data Dictionary - UAB WiFi Dataset
 
-**Última actualización:** 6 de noviembre de 2025
+**Última actualización:** 8 de noviembre de 2025
 **Dataset:** Datos de red WiFi del campus UAB (3 abril - 10 julio 2025)
 **Evento:** UAB THE HACK! 2025
 
@@ -643,15 +643,12 @@ ap['building'] = ap['name'].str.extract(r'AP-([A-Z]+)\d+')[0]
 
 ## Contacto
 
-**Responsable técnico:**
-Gonçal Badenes Guia (DTIC - Serveis d'Informàtica UAB)
-goncal.badenes@uab.cat
-
 **Soporte durante el hackathon:**
 albert.gil.lopez@uab.cat
 
 ---
 
-**Última revisión:** 6 de noviembre de 2025
+**Última revisión:** 8 de noviembre de 2025
 **Versión:** 1.0
 **Licencia:** Documentación bajo CC BY 4.0 - Datos solo para uso educativo
+
