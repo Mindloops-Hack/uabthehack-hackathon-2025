@@ -183,8 +183,6 @@ Se proporcionarán coordenadas geográficas de los APs para permitir visualizaci
 En la carpeta `starter_kits/` encontrarás:
 
 - `01_rookie_basic_analysis.ipynb`: Notebook con carga de datos y visualizaciones básicas
-- `02_intermediate_mobility.ipynb`: Análisis de movilidad y calidad
-- `03_advanced_ml_llm.ipynb`: Ejemplos de ML y uso de LLMs
 - `utils/`: Funciones auxiliares para cargar y procesar datos
 
 ---
@@ -274,17 +272,10 @@ jupyter notebook starter_kits/
 - Busca a los mentores de DTIC en el evento
 - Preguntas técnicas: albert.gil.lopez@uab.cat
 
-**Responsable técnico DTIC:**
-- Gonçal Badenes Guia (goncal.badenes@uab.cat)
-
 ---
 
 ## Licencia
 
 El código de los scripts de procesamiento está bajo licencia MIT.
 Los datos son propiedad de la UAB y solo para uso educativo durante el evento.
-
----
-
-**¡Buena suerte y a hackear! 🚀**
 
